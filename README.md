@@ -4,7 +4,7 @@
 
 This project demonstrates a penetration test simulation, mapping out an attack from initial access to data exfiltration within a corporate network environment. Then conducting an analysis of the attack using Splunk SIEM and creating alerts based on the attack
 
-Goal: Simulate a cyberattack and then document and analyze the steps involved, highlighting key attack techniques from the MITRE ATT&CK framework.
+Goal: Simulate a cyberattack and then document and analyze the steps involved, highlighting key attack techniques from the MITRE ATT&CK framework. 
 
 # Content:
 - [Attack Simulation](#attack-simulation)
